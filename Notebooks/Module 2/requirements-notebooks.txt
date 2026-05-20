@@ -1,0 +1,21 @@
+# Core
+numpy
+pandas
+scikit-learn
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Notebook support
+jupyter
+ipykernel
+
+# Image processing
+opencv-python
+Pillow
+
+# Deep learning (macOS Apple Silicon)
+tensorflow-macos
+tensorflow-metal
